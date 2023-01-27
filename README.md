@@ -7,4 +7,6 @@
 
 
 //모바일 화면
+
+
 ![image](https://user-images.githubusercontent.com/100067849/215100102-9a8d5a1b-96e5-419d-93b8-9bcae0760ae8.png)
